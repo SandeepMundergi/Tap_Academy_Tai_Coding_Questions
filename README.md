@@ -1,6 +1,6 @@
 # JAVA Full Stack Coding Questions by TAP Academy
 
-A repo containing list of all questions and answers of JAVA Full Stack Coding Questions by TAP Academy
+A repo containing a list of all questions and answers of JAVA Full Stack Coding Questions by TAP Academy
 
 ## Questions
 
