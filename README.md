@@ -172,3 +172,30 @@ A repo containing a list of all questions and answers of JAVA Full Stack Coding 
 | Rearrange Array with negative 1 at the Beginning                                         | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Arrays_miscellaneous/RearrangeArraywithnegative1attheBeginning.java)                                   |
 | Rearrange Array with negative 1 at the End                                               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Arrays_miscellaneous/RearrangeArraywithnegative1attheEnd.java)                                         |
 | Rearrange Array with Positive Integers at the Beginning and Negative Integers at the End | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Arrays_miscellaneous/RearrangeArraywithPositiveIntegersattheBeginningandNegativeIntegersattheEnd.java) |
+
+---
+
+### 9. String traversal 1
+
+| Questions                                                  | link                                                                                                                                                               |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Alphanumeric Character Count                               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/AlphanumericCharacterCount.java)                         |
+| Character Count                                            | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/CharacterCount.java)                                     |
+| Character Printer                                          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/CharacterPrinter.java)                                   |
+| Consonant Count in String                                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/ConsonantCountinString.java)                             |
+| Count Vowels Consonants and Special Characters in a String | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/CountVowelsConsonantsandSpecialCharactersinaString.java) |
+| Even Index Character Printer                               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/EvenIndexCharacterPrinter.java)                          |
+| Index Character Printer                                    | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/IndexCharacterPrinter.java)                              |
+| Lowercase Character Count                                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/LowercaseCharacterCount.java)                            |
+| Number Printer                                             | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/NumberPrinter.java)                                      |
+| Numeric Character Count                                    | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/NumericCharacterCount.java)                              |
+| Odd Index Character Printer                                | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/OddIndexCharacterPrinter.java)                           |
+| Palindrome Checker                                         | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/PalindromeChecker.java)                                  |
+| Print All Characters                                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/PrintAllCharacters.java)                                 |
+| Reverse String                                             | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/ReverseString.java)                                      |
+| Special Character Count in String                          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/SpecialCharacterCountinString.java)                      |
+| Special Character Printer                                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/SpecialCharacterPrinter.java)                            |
+| String Concatenator                                        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/StringConcatenator.java)                                 |
+| String Length Finder                                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/StringLengthFinder.java)                                 |
+| Uppercase Character Count                                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/UppercaseCharacterCount.java)                            |
+| Vowel Count in String                                      | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/VowelCountinString.java)                                 |
