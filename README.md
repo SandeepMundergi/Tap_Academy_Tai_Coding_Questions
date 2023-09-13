@@ -199,3 +199,63 @@ A repo containing a list of all questions and answers of JAVA Full Stack Coding 
 | String Length Finder                                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/StringLengthFinder.java)                                 |
 | Uppercase Character Count                                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/UppercaseCharacterCount.java)                            |
 | Vowel Count in String                                      | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_1/VowelCountinString.java)                                 |
+
+---
+
+### 10. String traversal 2
+
+| Questions                                  | link                                                                                                                                                   |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Alternate Case Swap                        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/AlternateCaseSwap.java)                      |
+| Insert Asterisks Before a and A Characters | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/InsertAsterisksBeforeaandACharacters.java)   |
+| Insert Asterisks Before a Characters       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/InsertAsterisksBeforeaCharacters.java)       |
+| Insert Asterisks Before Numeric Characters | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/InsertAsterisksBeforeNumericCharacters.java) |
+| Insert Asterisks Before Vowels             | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/InsertAsterisksBeforeVowels.java)            |
+| Lowercase ASCII Value                      | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/LowercaseASCIIValue.java)                    |
+| Lowercase Character Count                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/LowercaseCharacterCount.java)                |
+| Lowercase to Uppercase Converter           | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/LowercasetoUppercaseConverter.java)          |
+| Move Numeric Characters to the End         | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/MoveNumericCharacterstotheEnd.java)          |
+| Move Special Characters to the Beginning   | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/MoveSpecialCharacterstotheBeginning.java)    |
+| Move Special Characters to the End         | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/MoveSpecialCharacterstotheEnd.java)          |
+| Remove Alphanumeric                        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/RemoveAlphanumeric.java)                     |
+| Remove Consonants                          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/RemoveConsonants.java)                       |
+| Remove Lowercase Characters                | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/RemoveLowercaseCharacters.java)              |
+| Remove Numeric Characters                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/RemoveNumericCharacters.java)                |
+| Remove Spaces from a String                | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/RemoveSpacesfromaString.java)                |
+| Remove Special Characters                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/RemoveSpecialCharacters.java)                |
+| Remove Uppercase Characters                | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/RemoveUppercaseCharacters.java)              |
+| Remove Vowels                              | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/RemoveVowels.java)                           |
+| Replace Uppercase Letters                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/ReplaceUppercaseLetters.java)                |
+| Space Count in String                      | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/SpaceCountinString.java)                     |
+| String to ASCII Converter                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/StringtoASCIIConverter.java)                 |
+| Sum of Digits and Concatenate              | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/SumofDigitsandConcatenate.java)              |
+| Uppercase ASCII Check                      | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/UppercaseASCIICheck.java)                    |
+| Uppercase Character Count                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/UppercaseCharacterCount.java)                |
+| Uppercase to Lowercase Converter           | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_2/UppercasetoLowercaseConverter.java)          |
+
+---
+
+### 11. String traversal 3
+
+| Questions                           | link                                                                                                                                             |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Anagram Check                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/AnagramCheck.java)                     |
+| Character Frequency                 | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/CharacterFrequency.java)               |
+| Check Substring in a String         | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/CheckSubstringinaString.java)          |
+| Count of Characters after Each Word | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/CountofCharactersafterEachWord.java)   |
+| Count String Occurrences            | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/CountStringOccurrences.java)           |
+| Largest Word                        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/LargestWord.java)                      |
+| Last Occurrence Index Finder        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/LastOccurrenceIndexFinder.java)        |
+| Palindromic Substrings of Length 4  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/PalindromicSubstringsofLength4.java)   |
+| Pangram Check                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/PangramCheck.java)                     |
+| Print All Substrings                | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/PrintAllSubstrings.java)               |
+| Print Largest Palindromic Substring | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/PrintLargestPalindromicSubstring.java) |
+| Print Palindromic Substrings        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/PrintPalindromicSubstrings.java)       |
+| Print Words by Odd and Even Indices | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/PrintWordsbyOddandEvenIndices.java)    |
+| Remove Duplicate Characters         | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/RemoveDuplicateCharacters.java)        |
+| Reverse Words in a String           | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/ReverseWordsinaString.java)            |
+| Smallest Word                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/SmallestWord.java)                     |
+| String Sort                         | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/StringSort.java)                       |
+| Substring Frequency                 | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/SubstringFrequency.java)               |
+| Trim Whitespaces                    | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/TrimWhitespaces.java)                  |
+| Word Count in String                | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/String_traversal_3/WordCountinString.java)                |
