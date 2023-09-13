@@ -109,45 +109,27 @@ A repo containing a list of all questions and answers of JAVA Full Stack Coding 
 
 | Questions                                        | link                                                                                                                                               |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Counting Pairs                                   | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/CountingPairs.java)                             |
-| Even Pairs                                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/EvenPairs.java)                                 |
-| Maximum Product Pairs                            | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/MaximumProductPairs.java)                       |
-| Minimum Pairs Sum                                | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/MinimumPairsSum.java)                           |
-| Minimum Product of Pairs in an Array             | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/MinimumProductofPairsinanArray.java)            |
-| Odd Pairs                                        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/OddPairs.java)                                  |
-| Pair with Minimum Sum                            | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairwithMinimumSum.java)                        |
-| Pairs with Difference K                          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairswithDifferenceK.java)                      |
-| Pairs with First Value Smaller                   | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairswithFirstValueSmaller.java)                |
-| Pairs with Prime Number Elements                 | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairswithPrimeNumberElements.java)              |
-| Pairs with Product                               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairswithProduct.java)                          |
-| Pairs with Second Value Larger                   | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairswithSecondValueLarger.java)                |
-| Pairs with Second Value Smaller than First Value | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairswithSecondValueSmallerthanFirstValue.java) |
-| Pairs with Sum as Prime Number                   | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairswithSumasPrimeNumber.java)                 |
-| Pairs with Sum Greater than k                    | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairswithSumGreaterthank.java)                  |
-| Pairs with Sum K                                 | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairswithSumK.java)                             |
-| Pairs with Sum Less than k                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PairswithSumLessthank.java)                     |
-| Print All Pairs                                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Pairs/PrintAllPairs.java)                             |
-
----
-
-### 6. Sorted Arrays
-
-| Questions                                                   | link                                                                                                                                                          |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Common Repeating Odd Elements in Sorted Arrays              | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/CommonRepeatingOddElementsinSortedArrays.java)           |
-| Count Occurrences of All Elements in a Sorted Array         | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/CountOccurrencesofAllElementsinaSortedArray.java)        |
-| Count Occurrences of Integer                                | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/CountOccurrencesofInteger.java)                          |
-| Count Occurrences of the Smallest Element in a Sorted Array | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/CountOccurrencesoftheSmallestElementinaSortedArray.java) |
-| Count Unique Elements                                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/CountUniqueElements.java)                                |
-| First Element Not in Sorting Order                          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/FirstElementNotinSortingOrder.java)                      |
-| Largest Repeating Element Descending Order                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/LargestRepeatingElementDescendingOrder.java)             |
-| Largest Repeating Element1                                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/LargestRepeatingElement1.java)                           |
-| Largest Repeating Element2                                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/LargestRepeatingElement2.java)                           |
-| Print NonRepeating Elements                                 | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/PrintNonRepeatingElements.java)                          |
-| Repeated Elements in Two Sorted Arrays1                     | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/RepeatedElementsinTwoSortedArrays1.java)                 |
-| Repeated Elements in Two Sorted Arrays2                     | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/RepeatedElementsinTwoSortedArrays2.java)                 |
-| Repeated Elements in Two Sorted Arrays3                     | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/RepeatedElementsinTwoSortedArrays3.java)                 |
-| Smallest Repeating Element Descending                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/SmallestRepeatingElementDescending.java)                 |
+| Counting Pairs                                   | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/CountingPairs.java)                             |
+| Even Pairs                                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/EvenPairs.java)                                 |
+| Maximum Product Pairs                            | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/MaximumProductPairs.java)                       |
+| Minimum Pairs Sum                                | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/MinimumPairsSum.java)                           |
+| Minimum Product of Pairs in an Array             | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/MinimumProductofPairsinanArray.java)            |
+| Odd Pairs                                        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/OddPairs.java)                                  |
+| Pair with Minimum Sum                            | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairwithMinimumSum.java)                        |
+| Pairs with Difference K                          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairswithDifferenceK.java)                      |
+| Pairs with First Value Smaller                   | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairswithFirstValueSmaller.java)                |
+| Pairs with Prime Number Elements                 | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairswithPrimeNumberElements.java)              |
+| Pairs with Product                               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairswithProduct.java)                          |
+| Pairs with Second Value Larger                   | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairswithSecondValueLarger.java)                |
+| Pairs with Second Value Smaller than First Value | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairswithSecondValueSmallerthanFirstValue.java) |
+| Pairs with Sum as Prime Number                   | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairswithSumasPrimeNumber.java)                 |
+| Pairs with Sum Greater than k                    | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairswithSumGreaterthank.java)                  |
+| Pairs with Sum K                                 | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairswithSumK.java)                             |
+| Pairs with Sum Less than k                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PairswithSumLessthank.java)                     |
+| Print All Pairs                                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_pairs/PrintAllPairs.java)                             |
+| Repeated Elements in Two Sorted Arrays2          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/RepeatedElementsinTwoSortedArrays2.java)      |
+| Repeated Elements in Two Sorted Arrays3          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/RepeatedElementsinTwoSortedArrays3.java)      |
+| Smallest Repeating Element Descending            | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Sorted_Arrays/SmallestRepeatingElementDescending.java)      |
 
 ---
 
