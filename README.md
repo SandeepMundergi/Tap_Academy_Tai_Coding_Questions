@@ -105,7 +105,51 @@ A repo containing a list of all questions and answers of JAVA Full Stack Coding 
 
 ---
 
-### 5. Array Pairs
+### 5. Array_Traversal_level_2
+
+| Questions                                       | link                                                                                                                                                         |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Count Largest Element Occurrences               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/CountLargestElementOccurrences.java)          |
+| Divisible Elements Print                        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/DivisibleElementsPrint.java)                  |
+| Even Elements Sum                               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/EvenElementsSum.java)                         |
+| Even Index Elements                             | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/EvenIndexElements.java)                       |
+| EvenOdd and Negative Elements in Array          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/EvenOddandNegativeElementsinArray.java)       |
+| Index of K Value in Array                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/IndexofKValueinArray.java)                    |
+| Index of Largest Element                        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/IndexofLargestElement.java)                   |
+| Index of Smallest Element                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/IndexofSmallestElement.java)                  |
+| Largest Repeating Element                       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/LargestRepeatingElement.java)                 |
+| Largest Repeating Element2                      | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/LargestRepeatingElement2.java)                |
+| Largest Repeating Element Descending Order      | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/LargestRepeatingElementDescendingOrder.java)  |
+| Last Occurrence Index Finder                    | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/LastOccurrenceIndexFinder.java)               |
+| Max Pair Sum                                    | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/MaxPairSum.java)                              |
+| Minimum Pairs Sum                               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/MinimumPairsSum.java)                         |
+| Missing Element                                 | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/MissingElement.java)                          |
+| Occurrence of Largest Element in an Array       | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/OccurrenceofLargestElementinanArray.java)     |
+| Occurrence of Smallest Element in an Array      | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/OccurrenceofSmallestElementinanArray.java)    |
+| Odd Elements Sum                                | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/OddElementsSum.java)                          |
+| Odd Index Elements                              | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/OddIndexElements.java)                        |
+| Odd Numbers Array                               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/OddNumbersArray.java)                         |
+| Print Array Elements                            | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/PrintArrayElements.java)                      |
+| Print Array Elements2                           | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/PrintArrayElements2.java)                     |
+| Print Elements in an Array from Middle to End   | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/PrintElementsinanArrayfromMiddletoEnd.java)   |
+| Print Elements in an Array from Start to Middle | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/PrintElementsinanArrayfromStarttoMiddle.java) |
+| Print Float Elements                            | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/PrintFloatElements.java)                      |
+| Print Odd Index Array Elements                  | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/PrintOddIndexArrayElements.java)              |
+| Print Repeating Elements                        | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/PrintRepeatingElements.java)                  |
+| Replace Even Elements in an Array               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/ReplaceEvenElementsinanArray.java)            |
+| Reverse Array Elements                          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/ReverseArrayElements.java)                    |
+| Reverse Even Array                              | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/ReverseEvenArray.java)                        |
+| Reverse Odd Array                               | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/ReverseOddArray.java)                         |
+| Second Largest Number                           | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/SecondLargestNumber.java)                     |
+| Second Smallest Number                          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/SecondSmallestNumber.java)                    |
+| Smallest Repeating Element                      | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/SmallestRepeatingElement.java)                |
+| Smallest Repeating Element2                     | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/SmallestRepeatingElement2.java)               |
+| Smallest Repeating Element Descending           | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/SmallestRepeatingElementDescending.java)      |
+| Sum Divisible Elements                          | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/SumDivisibleElements.java)                    |
+| Sum Positive Negative                           | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/SumPositiveNegative.java)                     |
+| Swapping Indexes in an Array                    | [click](https://github.com/SandeepR1305/Tap_Academy_Tai_Coding_Questions/blob/main/src/Array_Traversal_level_2/SwappingIndexesinanArray.java)                |
+
+### 6. Array Pairs
 
 | Questions                                        | link                                                                                                                                               |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
